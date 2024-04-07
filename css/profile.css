@@ -78,6 +78,7 @@ html, body{
     height: 30px;
     background-color: #4caf50;
     text-align: center;
+    text-indent: -9999px;
     line-height: 30px;
     color: white;
   }
